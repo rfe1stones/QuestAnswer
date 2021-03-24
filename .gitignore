@@ -1,0 +1,7 @@
+#local use only
+csv
+qanda.pem
+artillery-test.yml
+
+#Files not in use
+csvToSql.js

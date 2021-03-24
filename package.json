@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "async": "^3.2.0",
+    "csv": "^5.4.0",
+    "csv-stream": "^0.2.0",
+    "express": "^4.17.1",
+    "file-system": "^2.2.2",
+    "node": "^15.10.0",
+    "nodemon": "^2.0.7",
+    "pg": "^8.5.1",
+    "postgres": "^1.0.2"
+  },
+  "scripts": {
+    "server": "npx nodemon --watch index.js"
+  }
+}
